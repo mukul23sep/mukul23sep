@@ -1,9 +1,9 @@
 # Hi , I am Mukul...<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">
 
-### I am an aspiring engineer and stock market analyst. 
-#### I'm from India and a Computer science engineering student at MAKAUT university.
+### I am an engineer. 
+#### I'm from India and a software engineer.
 
-##### I just love to learn stock market.I like to do programming . 
+##### I just love to learn new thing .I like to do programming . 
 ##### I have worked with Web-Development both frontend and backend, and I am quite experienced with Android Studio too.
 
 ### My Skills :
